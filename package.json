@@ -1,0 +1,11 @@
+{
+  "name": "botkit-visual-studio-extension",
+  "version": "0.0.1",
+  "description": "Botkit Visual Studio Extension",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@lahdiouiouadie",
+  "license": "ISC"
+}
